@@ -2,5 +2,5 @@ name: wangjing Ke Blog
 author: Wangjing Ke
 
 # site settings
-baseurl: /blog
-url: http://wangjingke.com
+# baseurl: /blog
+url: http://fguoer.github.io
